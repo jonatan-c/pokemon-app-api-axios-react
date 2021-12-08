@@ -12,7 +12,7 @@
 - [x] Local.
 - [ ] Heroku.
 - [ ] AWS.
-- [x] Netlify.
+- [x] Netlify: https://pokemon-app-react-jonatan.netlify.app/
 - [x] None.
 
 ## <a name="table-of-contents"></a>Table of Contents
